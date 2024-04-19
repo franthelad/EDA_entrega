@@ -7,12 +7,12 @@ diapositiva 2
 -se especula que proviene de la india, s vi
 
 -El origen del ajedrez sigue siendo una cuestión de debate entre los historiadores del ajedrez,
-​sin embargo, la teoría más difundida4 es que fue creado en la India durante el Imperio Gupta alrededor 
-del siglo vi.5 Esta teoría se confirma por los primeros registros literarios persas y por el análisis de 
+​sin embargo, la teoría más difundida es que fue creado en la India durante el Imperio Gupta alrededor 
+del siglo vi. Esta teoría se confirma por los primeros registros literarios persas y por el análisis de 
 la etimología de las palabras utilizadas en el juego y su co-evolución con el ajedrez.
 
 -Sin embargo, las teorías alternativas proponen que el ajedrez fue creado 
-durante un período anterior, en diferentes lugares, como China, Irán8 y 
+durante un período anterior, en diferentes lugares, como China, Irán y 
 Afganistán.​ Estas versiones exploran evidencias arqueológicas, militares,
 y literarias de la evidencia filogenética​ para desafiar la teoría de la 
 India. Las similitudes entre Chaturanga y el Xiangqi, considerado la versión 
@@ -33,7 +33,7 @@ DE MARGEN PARA MOVERSE
 
 - SE INTRODUCE EL ENROQUE, COMER AL PASO, Y ALFIL Y DAMA ACTUALES
 
-El primer tratado valenciano de ajedrez moderno, el ‘Llibre dels jochs partits dels schacs en nombre de 
+El primer tratado de ajedrez moderno, el ‘Llibre dels jochs partits dels schacs en nombre de 
 100’, fue impreso el 15 de mayo de 1495 en Valencia. Para muchos, este libro conforma las actuales reglas 
 del ajedrez moderno, pues fueron concebidas y difundidas desde Valencia a finales del siglo XV para 
 convertirse en el primer tratado técnico de ajedrez moderno
@@ -45,7 +45,7 @@ La Federación Internacional de Ajedrez (más conocida por FIDE, del acrónimo d
 Fédération Internationale des Échecs) es una organización internacional que conecta las diversas 
 federaciones nacionales de ajedrez
 
-Se fundó en París, Francia el 20 de julio de 1924 y su lema es Gens una sumus2​ (‘Somos una familia’).
+Se fundó en París, Francia el 20 de julio de 1924 y su lema es Gens una sumus​ (‘Somos una familia’).
 
 Además de organizar el campeonato del mundo de ajedrez, la FIDE calcula el rango Elo de los jugadores, 
 redacta las reglas del ajedrez, publica libros y nombra a maestros internacionales, grandes maestros y 
@@ -65,6 +65,7 @@ es algo asi como una nacionalidad ficticia donde la gente se federa por convicci
 tambien los que estan cambiandose de nacionalidad 
 como un cajon de sastre
 jugadores rusos en contra de la guerra juegan bajo la bandera fide como ejemplo
+jugadores que estan realizando un cambio de nacionalidad tambien por ejemplo
 
 
 diapositiva 5
